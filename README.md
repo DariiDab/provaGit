@@ -1,2 +1,0 @@
-# provaGit
-primo utilizzo Git
